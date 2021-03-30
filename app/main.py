@@ -7,7 +7,7 @@ app.config["DEBUG"] = True
 ships = [
     {
     'name': 'Ever Given',
-    'stuck': 'maybe'
+    'stuck': 'no'
     }
 ]
 
